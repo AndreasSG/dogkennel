@@ -1,13 +1,7 @@
 <template>
   <div>
-<<<<<<< HEAD
     <front-page />
     <adoption-page />
-=======
-    <img alt="Vue logo" src="./assets/logo.png" />
-    <HelloWorld msg="Welcome to Your Vue.js App" />
-    lol
->>>>>>> 65f33b0de70b4720b28bce3ac171467ec9fbe281
   </div>
 </template>
 
