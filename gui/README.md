@@ -1,5 +1,15 @@
 # gui
 
+# Components needed
+-- Front page --
+* Navbar
+* Navigation menu
+* Hero section for front page
+* Footer
+
+-- adoption page --
+* Dog profile card
+
 ## Project setup
 ```
 npm install
